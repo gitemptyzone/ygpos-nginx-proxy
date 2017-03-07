@@ -1,5 +1,6 @@
 # ygpos-nginx-proxy
 Running nginx-proxy docker container based on [jwilder/nginx-proxy](https://github.com/jwilder/nginx-proxy).
+Even though this project is currenlty forcused on running ygpos-backend application, you can used it for common web application project.
 
 All service containers, which is running under the nginx-proxy service, should be running under the same network.
 
